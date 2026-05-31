@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervave",
+        "uuid": 20132175,
+        "checksum": "ynn6im"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
